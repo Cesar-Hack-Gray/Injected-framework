@@ -18,3 +18,8 @@
 ![Screenshot_20191017-164836_Termux](https://user-images.githubusercontent.com/46208706/67102730-36901c00-f181-11e9-9718-a737a8c766b4.jpg)
 
 # Contactame && mis redes sociales 
+#### YouTube : http://youtube.com/c/CésarHackGray_Y_Miickeyy
+#### Telegram: https://t.me/joinchat/LGT7BRGoVMPWvJu7Qyq17g
+#### Facebook: Cesar Hack Gray
+#### Mi web  : www.CesarHackGray.com
+#### CesarGray -> https://t.me/CesarGray
