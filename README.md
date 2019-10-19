@@ -2,6 +2,8 @@
 
      Que es Injected-framework ?
      Injected esta hecha específicamente 
+     para infectar apks legitimas en termux
+     mezclar un payload en una apk legítima de forma manual
      para termux :3 
      
 #### Injected-framework by @CesarHackGray -> Termux
